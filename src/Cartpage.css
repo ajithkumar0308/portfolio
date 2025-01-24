@@ -1,0 +1,55 @@
+.cartpg{
+    text-align: center;
+    color: rgb(12, 236, 68);
+}
+.carprd{
+    text-align: center;
+    color: rgb(231, 228, 46);
+
+}
+.prti{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.carpri{
+    text-align: center;
+    color: rgb(231, 228, 46);
+
+}
+.priti{
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+.cardes{
+    text-align: center;
+    color: rgb(231, 228, 46);
+    
+
+
+}
+.desti{
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+.carimg{
+margin-left: 490px;
+margin-top: 20px;
+}
+.carbu{
+margin-left: 480px;
+background-color: rgb(176, 206, 157);
+border-radius: 5px;
+margin-top: 20px;
+
+}
+.carcard{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: rgb(6, 129, 160);
+}
+.carp{
+    text-align: center;
+    color: rgb(231, 228, 46);
+}

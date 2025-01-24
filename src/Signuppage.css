@@ -1,0 +1,359 @@
+
+.navb{
+  background-color: rgb(24, 23, 23);
+  padding-bottom: 10px;
+}
+.siup{
+  margin-top: 120px;
+    margin-left: 480px;
+    font-weight: bold;
+    color: rgb(204, 0, 255);
+  }
+  .sicad{
+    margin-left: 400px;
+    margin-bottom: 20px;
+    background-color: rgb(228, 204, 236);
+  }
+  .siin1{
+  margin-left: 25px;
+  margin-top: 20px;
+  padding-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 40px;
+  border-radius: 6px;
+  text-align: center;
+  border-color: azure;
+  background-color:rgb(228, 227, 227);
+  }
+  .siin2{
+    margin-left: 25px;
+    margin-top: 20px;
+    padding-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 40px;
+  border-radius: 6px;
+  text-align: center;
+  border-color: azure;
+  background-color:rgb(228, 227, 227);
+  }
+  .siin3{
+    margin-left: 25px;
+    margin-top: 20px;
+    padding-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 40px;
+  border-radius: 6px;
+  text-align: center;
+  border-color: azure;
+  background-color:rgb(228, 227, 227);
+  }
+  .siin4{
+    margin-left: 25px;
+    margin-top: 20px;
+    padding-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 40px;
+  border-radius: 6px;
+  text-align: center;
+  border-color: azure;
+  background-color:rgb(228, 227, 227);
+  }
+  .siin5{
+    margin-left: 25px;
+    margin-top: 20px;
+    padding-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 40px;
+  border-radius: 6px;
+  text-align: center;
+  border-color: azure;
+  background-color:rgb(228, 227, 227);
+  }
+  .sibu1{
+    margin-left: 90px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  border-radius: 6px;
+  text-align: center; 
+  border-color: azure;
+  background-color:rgb(228, 227, 227);
+  }
+  .sibu1:hover{
+    background-color:rgb(204, 196, 196);
+  }
+  .Log1{
+    margin-top: 120px;
+    margin-left: 480px;
+  }
+  .login7{
+    margin-left: 25px;
+    margin-top: 20px;
+    padding-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 40px;
+  border-radius: 6px;
+  text-align: center;
+  border-color: azure;
+  background-color:rgb(228, 227, 227);
+  }
+  .login8{
+    margin-left: 25px;
+    margin-top: 20px;
+    padding-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 40px;
+  border-radius: 6px;
+  text-align: center;
+  border-color: azure;
+  background-color:rgb(228, 227, 227);
+  }
+  .Log1{
+    color:rgb(204, 0, 255);
+  }
+  .logcd{
+    margin-left: 400px;
+    background-color: rgb(228, 204, 236);
+  }
+  .logbu2{
+    margin-left: 90px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  border-radius: 6px;
+  text-align: center; 
+  border-color: azure;
+  background-color:rgb(228, 227, 227);
+  }
+  .logbu2:hover{
+    background-color:rgb(204, 196, 196);
+  }
+  .logp1{
+    margin-left: 430px;
+  }
+  .h2{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+    color: rgb(12, 236, 68);
+  
+  }
+  .prodiv{
+      background-color: rgb(6, 129, 160);
+      padding-top: 10px;
+      padding-bottom: 20px;
+  }
+  .useh2{
+    text-align: center;
+  margin-top: 50px;
+  font-weight: bold;
+  color: rgb(12, 236, 68);
+  }
+  .useid{
+    margin-left: 200px;
+  }
+  .usecard3{
+    background-color: rgb(245, 245, 242);
+  }
+  .useimg{
+    margin-left: -220px;
+    margin-top: -150px;
+  }
+  .useitem1{
+    margin-top: 100px;
+    font-weight: bold;
+    color: rgb(231, 228, 46);
+  
+  }
+  .useitem2{
+    margin-top: -10px;
+    font-weight: bold;
+    color: rgb(231, 228, 46);
+  
+  }
+  .useitem3{
+    margin-top: -10px;
+    font-weight: bold;
+    color: rgb(231, 228, 46);
+  
+  }
+  .usetitle{
+    margin-top: -20px;
+    color: rgb(255, 255, 255);
+  }
+  .usePrize{
+    margin-top: -20px;
+    color: rgb(255, 255, 255);
+  
+  }
+  .useDescription{
+    margin-top: -20px;
+    color: rgb(255, 255, 255);
+  
+  }
+  
+  .usep2{
+    color: azure;
+    margin-left: 200px;
+    margin-top: -45px;
+  
+    font-weight: bold;
+  }
+  .usepro{
+    margin-top: -30px;
+    color: azure;
+  }
+  .usecart{
+    margin-left: 400px;
+    margin-top: 30px;
+  
+  }
+  .uselogout{
+    margin-left: 20px;
+  }
+
+
+  @media screen and (max-width: 768px) {
+    .siup {
+      margin-top: 100px;
+    margin-left: 480px;
+    font-weight: bold;
+    }
+    .sicad {
+      margin-left: 250px;
+       
+    }
+    .siin1, .siin2, .siin3, .siin4, .siin5, .login7, .login8 {
+      margin-left: 25px;
+  margin-top: 20px;
+  padding-left: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 40px;
+  border-radius: 6px;
+  text-align: center;
+    }
+    .sibu1, .logbu2 {
+      margin-left: 90px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 6px;
+    text-align: center; 
+    }
+    .Log1 {
+      margin-left: 0;
+      text-align: center;
+    }
+    .logcd {
+      margin-left: 0;
+      width: 90%;
+    }
+    .logp1 {
+      margin-left: 0;
+      text-align: center;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .siup {
+      margin-top: 100px;
+    margin-left: 180px;
+    font-weight: bold;
+    }
+    .sicad {
+      margin-left: 90px;
+
+    }
+    .siin1, .siin2, .siin3, .siin4, .siin5, .login7, .login8 {
+      margin-left: 25px;
+      margin-top: 20px;
+      padding-left: 40px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-right: 40px;
+      border-radius: 6px;
+      text-align: center;
+    }
+    .sibu1, .logbu2 {
+      margin-left: 90px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  border-radius: 6px;
+  text-align: center; 
+    }
+    .Log1 {
+      font-size: 24px;
+      margin-left: 0;
+    }
+    .logcd {
+      margin-left: 50px;
+    }
+    .logp1 {
+      font-size: 14px;
+      margin-top: 10px;
+    }
+  }
+  
+  /* Ensure navbar is mobile-friendly */
+  .simnav {
+    padding-bottom: 10px;  }
+  
+  /* .hmnav header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .hmnav header img.port1 {
+    width: 50px;
+  }
+  
+  .hmnav header p {
+    margin-left: 10px;
+    font-size: 14px;
+  } */
+  
+  /* For very small screens */
+  @media screen and (max-width: 320px) {
+    /* .hmnav header {
+      flex-direction: column;
+      text-align: center;
+    }
+    .hmnav header p {
+      font-size: 12px;
+      margin-left: 0;
+    } */
+    .siup {
+      font-size: 18px;
+    }
+    .siin1, .siin2, .siin3, .siin4, .siin5 {
+      font-size: 12px;
+      padding: 10px 15px;
+    }
+    .sibu1, .logbu2 {
+      font-size: 12px;
+      padding: 10px 15px;
+    }
+  }

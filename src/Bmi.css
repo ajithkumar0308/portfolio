@@ -1,0 +1,67 @@
+.bmi{
+    margin-top: 120px;
+    font-weight: bold;
+   text-align: center;
+   color: dodgerblue;
+  }
+  .bmi1{
+    margin-top: 30px;
+    font-weight: bold;
+   text-align: center;
+   color: dodgerblue;
+  }
+  .bmicard{
+    margin-left: 220px;
+    margin-top: 50px;
+    padding-top: 30px;
+    background-color: rgb(228, 204, 236);
+  }
+  .bmihead{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: -50px;
+    color: rgb(34, 160, 160);
+    background-color: rgb(235, 236, 236);
+    text-align: center;
+    font-weight: bold;
+  }
+  .bmifoot{
+    margin-top: 30px;
+    padding-bottom: 6px;
+    background-color: rgb(235, 236, 236);
+    text-align: center;
+  }
+  .bmihgt{
+  margin-left: 10px;
+  margin-top: 10px;
+  color: rgb(4, 146, 58);
+  }
+  .bmiwgt{
+    margin-left: 300px;
+    margin-top: -25px;
+    color: rgb(4, 146, 58);
+    
+  }
+  .bmiage{
+    margin-left: 10px;
+    margin-top: 25px;
+    color: rgb(4, 146, 58);
+
+  }
+  .bmigen{
+    margin-left: 300px;
+    margin-top: -25px;
+    color: rgb(4, 146, 58);
+
+  
+  }
+  .bmibu1{
+    margin-top: 5px;
+    margin-left: 30px;
+    border-radius: 3px;
+    background-color: rgb(63, 32, 241);
+    color: azure;
+  }
+  .bmibu1:hover{
+    background-color: rgb(91, 63, 245);
+  }
