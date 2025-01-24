@@ -51,7 +51,7 @@ function App() {
         <Route path='/ecmw' element={<Signuppage/>}></Route>
         <Route path='/vote' element={<Login/>}></Route>
       <Route path='/api' element={<Useeffectaiimg/>}></Route>
-      <Route path='/cart1' element={<Cartpage/>}></Route>
+      {/* <Route path='/cart1' element={<Cartpage/>}></Route> */}
       </Routes>
     </Cartcontext.Provider>
 
